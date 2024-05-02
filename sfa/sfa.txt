@@ -5,9 +5,11 @@
 install.packages("readxl")
 install.packages("httr")
 install.packages("ssfa")
+install.packages("tibble")
 library("httr")
 library("readxl")
 library("ssfa")
+library("tibble")
 github_link <- "https://github.com/timbulwidodostp/sfa/raw/main/sfa_one/sfa_one.xlsx"
 temp_file <- tempfile(fileext = ".xlsx")
 req <- GET(github_link, 
