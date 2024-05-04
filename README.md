@@ -1,6 +1,8 @@
 # sfa
 Spatial Stochastic Frontier Analysis models estimation Use ssfa With (In) R Software
 
+https://www.youtube.com/watch?v=UWpFn_letYU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
